@@ -24,7 +24,7 @@ public class NullPointerExceptionMain {
 			System.out.println(e.getStackTrace());
 			e.printStackTrace();
 		}
-		
+//		Logger <----오류를 파일로 만들어줌
 		System.out.println("오류가 발생후 출력됐습니다.");
 
 	}
